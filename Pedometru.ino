@@ -82,10 +82,10 @@ void loop()
         Serial.println(steps);
         lcd.print("Steps: ");
         lcd.print(steps);
-        delay(1000);
+        delay(200);
         lcd.clear();
     }
-    delay(1000);
+    delay(200);
 }
 
 void calibrate()
