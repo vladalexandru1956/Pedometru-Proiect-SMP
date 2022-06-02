@@ -14,7 +14,7 @@ Proiectul constă în implementarea unui pedometru, un aparat cu care se pot mă
 
 # Funcționare
 Accelerometrul ADXL337 are 5 pini, unul pentru VCC, altul pentru ground și 3 pini ce oferă ca output valori de ieșire pentru axele X, Y, Z.
-!(https://imgur.com/a/qYuFV5r)
+![](https://imgur.com/a/qYuFV5r)
 La pornirea dispozitivului, se pornește procedura de calibrare a accelerometrului prin funcția calibrate(), prin care se citesc 100 de valori venite de la acesta și se face o medie pentru fiecare axă. 
 Odată făcută calibrarea, se intră în loop() unde se citesc 100 de valori odată la 200ms, și este calculat coeficientul prin care se determină dacă a avut loc deplasarea. Formula pentru acest coeficient este:
 √((acc_x-avg_x )^2+(acc_y-avg_y )^2+(acc_z-avg_z )^2 )
