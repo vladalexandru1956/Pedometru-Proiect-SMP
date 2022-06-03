@@ -28,3 +28,5 @@ Pentru afișare s-a folosit un ecran LCD 16x2 de care este atașat un modul de i
 -	https://circuitdigest.com/microcontroller-projects/diy-arduino-pedometer-counting-steps-using-arduino-and-accelerometer
 -	https://github.com/sparkfun/ADXL337_Breakout/blob/master/firmware/ADXL337_example/ADXL337_example.ino
 -	https://create.arduino.cc/projecthub/brudarko/pedometer-arduino-101-ef494b
+
+![pedometru1](pedometru.jpg)
