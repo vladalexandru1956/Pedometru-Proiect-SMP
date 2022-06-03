@@ -30,3 +30,4 @@ Pentru afișare s-a folosit un ecran LCD 16x2 de care este atașat un modul de i
 -	https://create.arduino.cc/projecthub/brudarko/pedometer-arduino-101-ef494b
 
 ![pedometru1](pedometru.jpg)
+![pedometru2](pedometru2.jpg)
